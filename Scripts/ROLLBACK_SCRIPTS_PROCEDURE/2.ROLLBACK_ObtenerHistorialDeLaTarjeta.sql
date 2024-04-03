@@ -1,0 +1,5 @@
+USE TARJETA_DE_CREDITO_TEST
+GO
+
+DROP PROCEDURE ObtenerHistorialDeLaTarjeta
+GO
